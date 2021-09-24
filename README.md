@@ -4,4 +4,4 @@
 ![image](https://github.com/chia-liu/switch/blob/main/santorini-switch.gif)
 
 ### Link switch
-[click to switch day n night](https://chia-liu.github.io/switch/)
+[click here to try switch](https://chia-liu.github.io/switch/)
